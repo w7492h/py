@@ -225,4 +225,4 @@ async def on_message(message):
     await bot.process_commands(message)  # 다른 명령어 처리
 
 # 봇의 동작을 위한 토큰
-bot.run('MTMzMDUyMTU5NTEyMjU0ODc0OQ.GVmy57.txWVEBFlCraLJRvxbvf-q5OI7jkQ_FGdxsOQwk')
+bot.run('MTMzMDUyMTU5NTEyMjU0ODc0OQ.GEozSR.nejneA3Jwpir4lJj_LpBDaE9qiZncpLBRzNHGI')
